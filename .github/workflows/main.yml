@@ -5,6 +5,7 @@ on:
       paths-ignore:
       - '**.md'
       - 'circuit'
+    workflow_dispatch:
 
 
 # env:
